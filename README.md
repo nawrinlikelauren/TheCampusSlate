@@ -16,7 +16,10 @@ This repository showcases the design and development of The Campus Slate student
 - Wix
 
 ## Screenshots 
-
+![Homepage Screenshot](TCS1.png)
+![Homepage Screenshot](TCS2.png)
+![Homepage Screenshot](TCS3.png)
+![Homepage Screenshot](TCS4.png)
 
 ## Status 
 - Previously deployed and utilized
