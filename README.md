@@ -1,4 +1,4 @@
-# The Campus Slate - University Student-Run Newspaper Website
+# The Campus Slate - University Student Run Newspaper Website
 This repository showcases the design and development of The Campus Slate student-run newspaper website. 
 
 ## Overview
